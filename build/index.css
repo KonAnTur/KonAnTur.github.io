@@ -34,7 +34,7 @@
 .scene {
     display: flex;
     position: relative;
-    
+    animation: sceneMove 6s infinite linear;
 }
 /*animation: sceneMove 6s infinite linear;*/
 .sceneAnimationPaused {
